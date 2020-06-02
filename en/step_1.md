@@ -1,1 +1,1 @@
-![image](images/image.png)
+![image](images/image.png){ width=50% }
